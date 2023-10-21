@@ -17,6 +17,7 @@ public class Program
 
         Console.Write("Введите количество студентов: ");
         int studentCount = int.Parse(Console.ReadLine());
+        //BOBER
 
         for (int i = 0; i < studentCount; i++)
         {
